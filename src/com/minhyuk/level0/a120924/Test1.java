@@ -1,4 +1,4 @@
-package com.minhyuk.level0.120924;
+package com.minhyuk.level0.a120924;
 
 import java.util.Scanner;
 
